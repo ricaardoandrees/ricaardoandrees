@@ -10,7 +10,7 @@
 * 🎓 Estudiante de Ingeniería Informática en la **UCAB** (Caracas, Venezuela).
 * 💼 Trabajando como **Technical Support Engineer L3 en Nextep**, resolviendo problemas con PostgreSQL, NestJS y Prisma.
 * 🚀 Enfocado en desarrollo Backend, diseño de bases de datos relacionales y arquitectura de software.
-* 🎮 En mi tiempo libre: Sobrevivo a GameJams de 48h, armo equipos competitivos en Showdown y espero con ansias Legends: Z-A.
+
 
 ### 🛠️ Tech Stack
 <div align="center">
